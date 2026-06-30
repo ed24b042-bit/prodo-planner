@@ -1,24 +1,24 @@
-# 📋 Planner Board: Agentic Multi-List Task Coordinator
+# Planner Board: Agentic Multi-List Task Coordinator
 
-Planner Board is an intelligent, multi-agent digital task board and productivity planner. Built with **React, TypeScript, Express, and Google Gemini**, it serves as an AI-powered co-pilot for individuals and teams to manage tasks, schedule schedules, track focus habits, and collaborate in real-time.
+Planner Board is an intelligent, multi-agent digital task board and productivity planner. Built with React, TypeScript, Express, and Google Gemini, it serves as an AI-powered co-pilot for individuals and teams to manage tasks, coordinate schedules, track focus habits, and collaborate in real-time.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- **🤖 Multi-Agent AI Core**: Powered by **Gemini 2.5 Flash**, our specialized agent system includes:
+- **Multi-Agent AI Core**: Powered by Gemini 2.5 Flash, the specialized agent system includes:
   - **Brain Agent**: Classifies user intents (scheduling, logging, metrics, or general chat) and extracts structured parameters.
   - **Planner Agent**: Automatically breaks down complex goals into executable task lists.
-  - **Scheduler & Task Agent**: Optimizes schedules, prioritizes tasks, and updates metadata.
+  - **Scheduler and Task Agent**: Optimizes schedules, prioritizes tasks, and updates metadata.
   - **Habits/Coach Agent**: Monitors focus logs to compute streaks, productivity baselines, and coaching advice.
-- **👥 Team Collaboration**: Create workspaces, invite members via unique join codes, assign tasks, and discuss them with thread-based comments.
-- **📊 Rich Analytics**: View interactive productivity metrics, streak trackers, focus logs, and work distribution charts powered by Recharts.
-- **📅 Interactive Calendar & Kanban**: Drag, reorder, and schedule tasks across customizable boards, folders, and timelines.
-- **🎙️ Voice Integration**: Dictate scheduling requests directly with speech-to-text input to run hands-free task creation.
+- **Team Collaboration**: Create workspaces, invite members via unique join codes, assign tasks, and discuss them with thread-based comments.
+- **Rich Analytics**: View interactive productivity metrics, streak trackers, focus logs, and work distribution charts powered by Recharts.
+- **Interactive Calendar and Kanban**: Drag, reorder, and schedule tasks across customizable boards, folders, and timelines.
+- **Voice Integration**: Dictate scheduling requests directly with speech-to-text input to run hands-free task creation.
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## Architecture and Tech Stack
 
 ```mermaid
 graph TD
@@ -39,20 +39,20 @@ graph TD
 ```
 
 ### Frontend
-- **Framework**: React 18 & TypeScript
-- **Styling**: Tailwind CSS 4 & Motion
+- **Framework**: React 18 and TypeScript
+- **Styling**: Tailwind CSS 4 and Motion
 - **Icons**: Lucide React
-- **Data Visualization**: Recharts & D3
+- **Data Visualization**: Recharts and D3
 
-### Backend & AI
+### Backend and AI
 - **Runtime**: Node.js with Express
 - **AI Core**: `@google/genai` (Gemini 2.5 Flash)
-- **Local DB**: File-based JSON Database (`db.json`)
+- **Local DB**: File-based JSON Database (db.json)
 - **Developer Tools**: Vite, TSX, Esbuild
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 planner-board/
@@ -74,7 +74,7 @@ planner-board/
 
 ---
 
-## 🏁 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -121,11 +121,12 @@ npm start
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
