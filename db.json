@@ -1,0 +1,110 @@
+{
+  "tasks": [
+    {
+      "id": "task-1782805789635",
+      "title": "HUU",
+      "duration": 45,
+      "priority": "medium",
+      "status": "todo",
+      "folder": "Meetings",
+      "startTime": "2026-06-30T10:30:00.000Z",
+      "endTime": "2026-06-30T11:15:00.000Z"
+    },
+    {
+      "id": "task-1782808542920",
+      "title": "Study session_tomorrow",
+      "duration": 45,
+      "priority": "medium",
+      "folder": "Engineering",
+      "startTime": "2026-06-30T08:35:00.000Z",
+      "endTime": "2026-06-30T09:20:00.000Z",
+      "status": "todo"
+    }
+  ],
+  "focusLogs": [],
+  "metrics": {
+    "streak": 0,
+    "totalFocusMinutes": 0,
+    "averageFocusScore": 0,
+    "averageDistractions": 0
+  },
+  "habitLogs": [
+    {
+      "id": "habit-1782808268566",
+      "compiledAt": "2026-06-30T08:31:08.566Z",
+      "totalFocusedHours": 0,
+      "primaryLocation": "home",
+      "averageDistractionRate": 0,
+      "productivityLevel": "Low",
+      "habitSummary": "The user currently presents an inactive home-based baseline characterized by zero logged focus hours and no recorded distractions, establishing a clean slate for future productivity tracking and performance optimization."
+    },
+    {
+      "id": "habit-1782807461879",
+      "compiledAt": "2026-06-30T08:17:41.879Z",
+      "totalFocusedHours": 0,
+      "primaryLocation": "home",
+      "averageDistractionRate": 0,
+      "productivityLevel": "Low",
+      "habitSummary": "The user's profile currently reflects a dormant baseline state from their home-based workspace, characterized by a complete absence of both focused hours and distraction events, indicating that active performance tracking has not yet commenced."
+    },
+    {
+      "id": "habit-1782806517365",
+      "compiledAt": "2026-06-30T08:01:57.365Z",
+      "totalFocusedHours": 0,
+      "primaryLocation": "home",
+      "averageDistractionRate": 0,
+      "productivityLevel": "Low",
+      "habitSummary": "The user currently exhibits an inactive home-based profile with a baseline of zero recorded focus hours and no established productivity metrics, representing an uninitiated performance starting point."
+    },
+    {
+      "id": "habit-1782806041881",
+      "compiledAt": "2026-06-30T07:54:01.881Z",
+      "totalFocusedHours": 0,
+      "primaryLocation": "home",
+      "averageDistractionRate": 0,
+      "productivityLevel": "Low",
+      "habitSummary": "The home-based user currently exhibits a latent productivity profile characterized by zero logged focus hours and an inactive engagement state, establishing an absolute baseline for future performance tracking."
+    },
+    {
+      "id": "habit-1782806023651",
+      "compiledAt": "2026-06-30T07:53:43.651Z",
+      "totalFocusedHours": 0,
+      "primaryLocation": "home",
+      "averageDistractionRate": 0,
+      "productivityLevel": "Low",
+      "habitSummary": "The user currently exhibits an inactive baseline within their home-based work environment, characterized by zero recorded focus hours and a dormant productivity rating, indicating a critical opportunity to establish foundational structure and initial task-initiation strategies."
+    },
+    {
+      "id": "habit-1782805638383",
+      "compiledAt": "2026-06-30T07:47:18.383Z",
+      "totalFocusedHours": 0,
+      "primaryLocation": "home",
+      "averageDistractionRate": 0,
+      "productivityLevel": "Low",
+      "habitSummary": "An analysis of the user's home-based profile indicates an unestablished productivity baseline, currently characterized by zero recorded focus hours and an absence of engagement metrics."
+    }
+  ],
+  "folders": [
+    "Work",
+    "Engineering",
+    "Meetings",
+    "Personal",
+    "list2321"
+  ],
+  "teams": [
+    {
+      "id": "team-1782808507047",
+      "name": "supmedh",
+      "code": "PRODO-7PA2",
+      "creator": "user-1782807460522",
+      "members": [
+        "user-1782807460522"
+      ],
+      "memberNames": {
+        "user-1782807460522": "Medha"
+      },
+      "createdAt": "2026-06-30T08:35:07.047Z"
+    }
+  ],
+  "comments": []
+}

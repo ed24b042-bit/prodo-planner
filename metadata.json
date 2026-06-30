@@ -1,0 +1,6 @@
+{
+  "name": "Planner Board",
+  "description": "Coordinate with your team members across custom lists, tasks, and subtasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
