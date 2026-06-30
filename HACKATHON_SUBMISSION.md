@@ -1,8 +1,6 @@
 # The Last-Minute Life Saver - Project Submission
 
-## Project Name: ProDo Planner Board
-- **Team Name**: [Insert Team Name]
-- **Team Members**: [Insert Member Names]
+## Project Name: ProDo 
 - **Date**: June 30, 2026
 
 ---
